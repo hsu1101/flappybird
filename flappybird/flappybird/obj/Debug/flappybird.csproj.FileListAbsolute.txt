@@ -1,0 +1,40 @@
+C:\Users\許家瑋\source\repos\flappybird\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\許家瑋\source\repos\flappybird\flappybird\bin\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird\flappybird\bin\Debug\flappybird.pdb
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.csproj.GenerateResource.cache
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird\flappybird\obj\Debug\flappybird.pdb
+C:\Users\user\Desktop\flappybird\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\user\Desktop\flappybird\flappybird\bin\Debug\flappybird.exe
+C:\Users\user\Desktop\flappybird\flappybird\bin\Debug\flappybird.pdb
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.csproj.GenerateResource.cache
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.exe
+C:\Users\user\Desktop\flappybird\flappybird\obj\Debug\flappybird.pdb
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\bin\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\bin\Debug\flappybird.pdb
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.csproj.GenerateResource.cache
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird 改\flappybird 改\flappybird\obj\Debug\flappybird.pdb
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\bin\Debug\flappybird.exe.config
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\bin\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\bin\Debug\flappybird.pdb
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.csprojAssemblyReference.cache
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.csproj.GenerateResource.cache
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.csproj.CoreCompileInputs.cache
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.exe
+C:\Users\許家瑋\source\repos\flappybird 1226\flappybird 改\flappybird\obj\Debug\flappybird.pdb
